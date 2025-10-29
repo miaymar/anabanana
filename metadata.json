@@ -1,0 +1,5 @@
+{
+  "name": "ana banana x lote",
+  "description": "An application to upload a batch of 10 images and edit them using Gemini with preset modes or a custom text prompt.",
+  "requestFramePermissions": []
+}
